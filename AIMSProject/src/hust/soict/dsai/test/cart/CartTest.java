@@ -1,7 +1,8 @@
+package hust.soict.dsai.test.cart;
+
 import hust.soict.dsai.aims.cart.Cart;
 import hust.soict.dsai.aims.disc.DigitalVideoDisc;
 
-package hust.soict.dsai.test.cart;
 public class CartTest {
     public static void main(String[] args) {
         //Create a new cart
